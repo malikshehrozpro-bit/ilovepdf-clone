@@ -1,0 +1,8 @@
+pymupdf==1.24.7
+Pillow==10.4.0
+pikepdf==9.2.0
+PyPDF2==3.0.1
+python-pptx==0.6.23
+pdf2docx==0.5.8
+tabula-py==2.9.3
+pandas==2.2.2
